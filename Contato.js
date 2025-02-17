@@ -20,7 +20,7 @@ const TelaContato = () => {
       </TouchableOpacity>
       <TouchableOpacity style={styles.contact} onPress={() => handleContactPress('Rua do caralho 715')}>
         <Entypo name="house-user" size={30} color="rgb(207, 177, 160);" />
-        <Text style={styles.contactText}>Rua do caralho 715</Text>
+        <Text style={styles.contactText}>Rua do silva 715</Text>
       </TouchableOpacity>
     </View>
   );

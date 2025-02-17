@@ -5,7 +5,7 @@ const TelaSobre = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={{ uri: 'https://via.placeholder.com/150' }} // Imagem de exemplo
+        source={{ uri: './img/a.jpg' }} // Imagem de exemplo
         style={styles.image}
       />
       <Text style={styles.title}>Sobre o App</Text>
